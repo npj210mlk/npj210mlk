@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Any project incorporating MCPs into LLMs**
 
-- 🤝 I’m looking for help with **Losing my love handles**
+- 🤝 I’m looking for help with **losing my love handles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/npj210mlk](https://github.com/npj210mlk)
 
