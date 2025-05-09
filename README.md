@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npj210mlk&label=Profile%20views&color=0e75b6&style=flat" alt="npj210mlk" /> </p>
 
-- 🔭 I’m currently working on [Prompt Engineering projects](https://github.com/npj210mlk)
+- 🔭 I’m currently working on [putting ChatGPT and Gemini in a cage where last one standing wins the resume optimizer.](https://github.com/npj210mlk)
 
 - 🌱 I’m currently learning **Various LLMs, MCPs, and incorporating AI**
 
-- 👯 I’m looking to collaborate on **Any project incorporating MCPs into LLMs**
+- 👯 I’m looking to collaborate on **Any project incorporating AI**
 
 - 🤝 I’m looking for help with **losing my love handles**
 
