@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, I'm Nick Joseph</h1>
-<h3 align="center">Passionate Data Democratizer and AI Bridge Builder</h3>
+<h1 align="center">Aloha! I'm Nick Joseph...</h1>
+<h3 align="center">Passionate Data Democratizer, AI Bridge Builder, People Person</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npj210mlk&label=Profile%20views&color=0e75b6&style=flat" alt="npj210mlk" /> </p>
 
 - 🔭 I’m currently working on [putting ChatGPT and Gemini in a cage where last one standing wins the resume optimizer.](https://github.com/npj210mlk/jobapp_prompter)
 
-- 🌱 I’m currently learning **Various LLMs, MCPs, and incorporating AI**
+- 🌱 I’m currently learning **Various LLMs, MCPs, and how to incorporate AI into existing client tools.**
 
-- 👯 I’m looking to collaborate on **Any project incorporating AI**
+- 👯 I’m looking to collaborate on **Any project that needing to bridge communication gaps between technical and non-technical audiences**
 
-- 🤝 I’m looking for help with **losing my love handles**
-
-- 👨‍💻 All of my projects are available at [https://github.com/npj210mlk](https://github.com/npj210mlk)
-
-- 💬 Ask me about **Anything cooking or comedy. Team Brooks, Zucker, Abrahamson, and Farrelly.**
+- 💬 Ask me about **anything cooking or comedy. Team Brooks, Zucker, Abrahamson, and Farrelly.**
 
 - 📫 How to reach me **nickpjoseph210@gmail.com**
 
-- ⚡ Fun fact **Gordon Ryan could take Thanos.**
+- ⚡ Fun fact **Everyone should do standup comedy to keep their skills sharp.**
+
+- - 👨‍💻 Most of my projects are available at [https://github.com/npj210mlk](https://github.com/npj210mlk). Some are labeled "Private" because they're not quite refined enough.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
