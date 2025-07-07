@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **Everyone should do standup comedy to keep their skills sharp.**
 
-- - 👨‍💻 Most of my projects are available at [https://github.com/npj210mlk](https://github.com/npj210mlk). Some are labeled "Private" because they're not quite refined enough.
+- 👨‍💻 Most of my projects are available at [https://github.com/npj210mlk](https://github.com/npj210mlk). Some are labeled "Private" because they're not quite refined enough.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
